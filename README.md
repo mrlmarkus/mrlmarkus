@@ -11,6 +11,21 @@ e integração com banco de dados, sempre buscando boas práticas e evolução c
 
 ---
 
+### 🚀 Projetos e Portfólio
+- heapofsouls.com.br
+- mirrorofsouls.com.br
+- childrenofthenight.com.br
+- colunasdaverdade.org
+- irmaoseamigos.org
+- euautista.com
+- software-livre.com
+- datasetbox.com.br
+- vaultbot.com.br
+- gcarautoservice.com
+- autoboard.com.br
+
+---
+
 ### 🚀 Tecnologias e Ferramentas
 - Python (lógica, estruturas de dados, análise de dados)
 - Java (Spring Boot – APIs REST)
